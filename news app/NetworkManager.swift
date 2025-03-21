@@ -8,7 +8,7 @@
 import Foundation
 
 struct NetworkManager {
-    let apiKey: String = "8d760096c0194fc78eae45c3718640bf"
+    let apiKey: String = "******************"
     
     func fetchNews() async throws -> [Article] {
         let urlString = "https://newsapi.org/v2/top-headlines?country=us&apiKey=\(apiKey)"
