@@ -11,8 +11,8 @@ This is a simple <strong>News App</strong> built using SwiftUI, demonstrating ho
 </ul>
 
 ## <h2>Screenshots</h2>
-<img src="screenshot1.png" alt="Screenshot 1" width="400">
-<img src="screenshot2.png" alt="Screenshot 2" width="400">
+<img src="Screenshot1.png" alt="Screenshot 1" width="400">
+<img src="Screenshot2.png" alt="Screenshot 2" width="400">
 
 ## <h2>How It Works</h2>
 <ol>
